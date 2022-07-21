@@ -9,7 +9,7 @@
 // node index.js edit <id> <task>
 // node index.js changeStatus <id>
 
-
+//mengambil inputan
 const command = process.argv[2];
 const params = process.argv.slice(3);
 

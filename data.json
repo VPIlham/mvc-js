@@ -1,1 +1,17 @@
-
+[
+   {
+      "id": 1,
+      "task": "Belajar JS",
+      "status": true
+   },
+   {
+      "id": 2,
+      "task": "Eksplore JS",
+      "status": false
+   },
+   {
+      "id": 3,
+      "task": "banyak baca deh",
+      "status": true
+   }
+]
